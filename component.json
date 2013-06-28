@@ -11,8 +11,13 @@
         "plain",
         "converter"
     ],
+    "dependencies": {
+        "starterstip/htmlparser": "*",
+        "component/underscore": "*",
+        "starterstep/underscore.string": "*"
+    },
     "scripts": [
-        "index.js"
+        "index.js", "lib/formatter.js", "lib/helper.js", "lib/html-to-text.js"
     ],
     "main": "index.js"
 }
