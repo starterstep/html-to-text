@@ -12,7 +12,7 @@
         "converter"
     ],
     "dependencies": {
-        "starterstip/htmlparser": "*",
+        "starterstep/htmlparser": "*",
         "component/underscore": "*",
         "starterstep/underscore.string": "*"
     },
